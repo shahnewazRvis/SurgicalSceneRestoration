@@ -13,6 +13,14 @@ dataset/clean: Clean restored denoised deblurred and color corrected surgical im
        Real world image                             Restored images
 
 
+
+
+![00_025_24-10-2019_1_2019-10-24-13-01-04_00484_R](https://github.com/shahnewazRvis/SurgicalSceneRestoration/assets/92858748/d060fa24-da25-4584-bf14-9c174fba9bf4) ![1](https://github.com/shahnewazRvis/SurgicalSceneRestoration/assets/92858748/95b5474d-2564-42f6-bde5-e0c29878315d)
+
+
+
+
+
 # image resize function
 
        import os
