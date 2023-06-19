@@ -4,9 +4,12 @@ For other minimally invasive surgical (MIS)  procedures or endoscopic images e.g
 fine-tuned on small endoscopic images.
 
 Directory Structure
-dataset/real: Real world endoscopic surgical images.
-dataset/synthetic_gt: Synthetic rendered surgical images.
-dataset/clean: Clean restored denoised deblurred and color corrected surgical images.
+
+ dataset/real: Real world endoscopic surgical images.
+ 
+ dataset/synthetic_gt: Synthetic rendered surgical images.
+ 
+ dataset/clean: Clean restored denoised deblurred and color corrected surgical images.
 
 ![09-14-11-45-55_00555_L](https://github.com/shahnewazRvis/SurgicalSceneRestoration/assets/92858748/31eff9fc-a452-4377-b0b5-b628a2ce34a1) ![09-14-11-45-55_00555_L](https://github.com/shahnewazRvis/SurgicalSceneRestoration/assets/92858748/fc9ec4df-c306-4c63-999d-6dda72a9f4ee)
 
