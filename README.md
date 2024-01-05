@@ -5,7 +5,7 @@ fine-tuned on small endoscopic images.
 
 Directory Structure
 
- dataset/real: Real world endoscopic surgical images.
+ dataset/image: Real world endoscopic surgical images. [Updating]
  
  dataset/synthetic_gt: Synthetic rendered surgical images.
  
